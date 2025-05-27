@@ -2,6 +2,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael.entringer)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpse&show_icons=true&theme=dracula)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpse&layout=compact&theme=dracula)
+
+
 ## Tecnologias que eu estou aprendendo atualmente
 
 <div style="display: inline_block">
